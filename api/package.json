@@ -17,11 +17,6 @@
     "test:unit": "cross-env TEST=true jest",
     "changelog": "simsala log --pending-path ./changes"
   },
-  "husky": {
-    "hooks": {
-      "pre-push": "yarn lint"
-    }
-  },
   "nodemonConfig": {
     "ignore": [
       "caches/*"
