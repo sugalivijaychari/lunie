@@ -14,3 +14,7 @@
 [2024-11-05 20:27:26] debug: Fetching kitty data...
 [2024-11-05 20:27:28] debug: Fetched Kitty Data: [false,true,{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x5a16688f"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x5a50b398c630cce7a10f18c00318c4718cc18c63318e7288c65ad6b739ae"}]
 [2024-11-05 20:27:28] info: Returning Kitty Information:
+[2024-11-05 20:32:32] info: Received Kitty ID: 6
+[2024-11-05 20:32:32] debug: Fetching kitty data...
+[2024-11-05 20:32:34] debug: Fetched Kitty Data: [false,true,{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x5a16688f"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x42d6b318a618cce4b9cf18060310844218d18c6321ce6294c35ad6b5b56d"}]
+[2024-11-05 20:32:34] info: Returning Kitty Information:
