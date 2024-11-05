@@ -1,0 +1,16 @@
+[2024-11-05 20:22:24] info: Received Kitty ID: 3
+[2024-11-05 20:22:24] debug: Fetching kitty data...
+[2024-11-05 20:22:26] debug: Fetched Kitty Data: [false,true,{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x5a16688f"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x4ad09294e5738ce42129294a5210c43190e18c63298e5318675ad6b62dcb"}]
+[2024-11-05 20:22:26] info: Returning Kitty Information:
+[2024-11-05 20:26:06] info: Received Kitty ID: 5
+[2024-11-05 20:26:06] debug: Fetching kitty data...
+[2024-11-05 20:26:07] debug: Fetched Kitty Data: [false,true,{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x5a16688f"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x5a50b398c630cce7a10f18c00318c4718cc18c63318e7288c65ad6b739ae"}]
+[2024-11-05 20:26:07] info: Returning Kitty Information:
+[2024-11-05 20:26:08] info: Received Kitty ID: 5
+[2024-11-05 20:26:08] debug: Fetching kitty data...
+[2024-11-05 20:26:09] debug: Fetched Kitty Data: [false,true,{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x5a16688f"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x5a50b398c630cce7a10f18c00318c4718cc18c63318e7288c65ad6b739ae"}]
+[2024-11-05 20:26:09] info: Returning Kitty Information:
+[2024-11-05 20:27:26] info: Received Kitty ID: 5
+[2024-11-05 20:27:26] debug: Fetching kitty data...
+[2024-11-05 20:27:28] debug: Fetched Kitty Data: [false,true,{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x5a16688f"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x5a50b398c630cce7a10f18c00318c4718cc18c63318e7288c65ad6b739ae"}]
+[2024-11-05 20:27:28] info: Returning Kitty Information:
